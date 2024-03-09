@@ -1,0 +1,163 @@
+.img-logo{
+  height: 70px;
+  border-radius: 50%;
+  margin-top:10px;
+  width: 80px;
+  margin-left:10px;
+}
+.nav-logo{
+  display: flex;
+ margin-left: 10px;
+
+
+
+}
+.target{
+  background-color: rgb(29, 155, 240);
+  padding: 9px 30px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+}
+.nav{
+  margin-top: 37px;
+  justify-content:space-evenly;
+  margin-left: 160px;
+  word-spacing: 62px;
+  border-bottom: 3px solid red;
+  
+  
+  
+}
+
+
+.nav-logo{
+  background-color:rgb(6, 6, 45);
+  color: aliceblue;
+  overflow: hidden;
+}
+a{
+  text-decoration: none;
+  color: white;
+  
+}
+.con{
+  margin-top: 31px;
+  margin-left: 200px;
+}
+.van{
+  margin-top: 31px;
+  margin-left: 50px;
+  height: 50px;
+}
+a:hover{
+  color: rgb(9, 131, 238);
+  
+}
+
+.con:hover{
+  color: rgb(9, 131, 238);
+}
+h1{
+text-align: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+.class1{
+    display: flex;
+}
+.class2{
+    display: flex;
+}
+#img1 {
+    height: 314px;
+  margin-left: 3%;
+  margin-top: 3%;
+  border-radius: 79%;
+  width: 100%;
+}
+#img2{
+    height: 314px;
+  margin-left: 4%;
+  margin-top: 3%;
+  border-radius: 79%;
+  width: 100%;
+}
+#img3{
+    height: 314px;
+  margin-left: 4%;
+  margin-top: 3%;
+  border-radius: 79%;
+  width: 100%;
+  margin-right: 3%;
+}
+#img4{
+    height: 314px;
+  margin-left: 3%;
+  margin-top: 3%;
+  border-radius: 79%;
+  width: 100%;
+}
+#img5{
+    height: 314px;
+  margin-left: 4%;
+  margin-top: 3%;
+  border-radius: 79%;
+  width: 100%;
+}
+#img6{
+    height: 314px;
+  margin-left: 4%;
+  margin-top: 3%;
+  border-radius: 79%;
+  width: 100%;
+  margin-right: 3%;
+}
+.c1{
+    height: 40%;
+  margin-left: 3%;
+  width: 30%;
+  margin-right: 3%;
+}
+.c2{
+    height: 40%;
+  margin-left: 3%;
+  width: 30%;
+  margin-right: 3%;
+}
+.c3{
+    height: 40%;
+  margin-left: 3%;
+  width: 30%;
+  margin-right: 3%;
+}
+.c4{
+    height: 40%;
+  margin-left: 3%;
+  width: 30%;
+  margin-right: 3%;
+}
+.c5{
+    height: 40%;
+  margin-left: 3%;
+  width: 30%;
+  margin-right: 3%;
+}
+.c6{
+    height: 40%;
+  margin-left: 3%;
+  width: 30%;
+  margin-right: 3%;
+}
+p{
+    color: rgb(207, 6, 6);
+    margin-left: 8%;
+    font-size: 32px;
+    text-align: center;
+}
